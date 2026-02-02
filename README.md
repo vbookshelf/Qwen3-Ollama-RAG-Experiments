@@ -1,4 +1,4 @@
-## Qwen3 Ollama RAG Experiments
+# Qwen3 Ollama RAG Experiments
 My experiments with creating multilingual local RAG systems using Ollama and the Qwen3 embeddings and rerankers. Both text-only and multimodal RAG.
 
 <br>
