@@ -54,3 +54,11 @@ https://www.youtube.com/watch?v=hize6rD6Afk
   
 - Part 2 - Search ArXiv using text vector similarity<br>
   https://www.kaggle.com/code/vbookshelf/part-2-search-arxiv-using-text-vector-similarity
+
+<br>
+
+  ## Rough Notes
+
+  - Ollama supports creating embeddings but there's no support for using reranking models.
+  - Ollama does not support creating multimodal embeddings i.e. text + image
+  - If you have hundreds of thousands of text embeddings to create, local inference with Ollama is too slow to be practical. (Tested on M4 Macbook Air)
