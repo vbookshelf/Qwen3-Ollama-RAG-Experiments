@@ -46,3 +46,11 @@ https://www.youtube.com/watch?v=fY3-YeveBgA
 - Qwen 3 Embeddings & Rerankers<br>
 Sam Witteveen<br>
 https://www.youtube.com/watch?v=hize6rD6Afk
+
+<br>
+
+- Part 1 - Build an ArXiv RAG search system w FAISS<br>
+  https://www.kaggle.com/code/vbookshelf/part-1-build-an-arxiv-rag-search-system-w-faiss
+  
+- Part 2 - Search ArXiv using text vector similarity<br>
+  https://www.kaggle.com/code/vbookshelf/part-2-search-arxiv-using-text-vector-similarity
