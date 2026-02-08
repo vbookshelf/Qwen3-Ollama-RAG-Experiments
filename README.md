@@ -65,3 +65,5 @@ https://www.youtube.com/watch?v=hize6rD6Afk
   - The Qwen3 0.6B Embedding model available on Kaggle tends to produce low quality results compared to when the model is downloaded from Hugging face using the Sentence Transformers package. I'm not sure if the Kaggle model is full precision or a quantized version. Tested using the data from this competition:<br>
   LLM Agentic Legal Information Retrieval<br>
   https://www.kaggle.com/competitions/llm-agentic-legal-information-retrieval
+- Qwen3 embedding models support Matryoshka Embeddings. If you manually slice the embeddings to reduce their length, it's important to normalize your sliced embeddings.
+
