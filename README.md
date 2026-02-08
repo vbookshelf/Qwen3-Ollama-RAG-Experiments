@@ -62,3 +62,6 @@ https://www.youtube.com/watch?v=hize6rD6Afk
   - Ollama supports creating embeddings but there's no support for using reranking models.
   - Ollama does not support creating multimodal embeddings i.e. text + image
   - If you have hundreds of thousands of text embeddings to create, local inference with Ollama is too slow to be practical. (Tested on M4 Macbook Air)
+  - The Qwen3 0.6B Embedding model available on Kaggle tends to produce low quality results compared to when the model is downloaded from Hugging face using the Sentence Transformers package. I'm not sure if the Kaggle model is full precision or a quantized version. Tested using the data from this competition:<br>
+  LLM Agentic Legal Information Retrieval<br>
+  https://www.kaggle.com/competitions/llm-agentic-legal-information-retrieval
